@@ -217,7 +217,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    // gap: 12px;
 
     padding: 12px;
     margin: 0px 20px;
@@ -230,6 +229,7 @@
     color: var(--black);
 
     @include media-breakpoint-down(xs) {
+      margin: 0px 8px;
       width: 52px;
       height: 52px;
 

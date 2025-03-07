@@ -47,7 +47,7 @@ function App() {
       <section className='location_section'>
         <div className='item'>
           <ChurchIcon />
-          <h5>Шлюб</h5>
+          <h5 className='shantell-sans'>Шлюб</h5>
           <h4>Церква Успіння Пресвятої Богородиці (с. Яблунів). </h4>
           <a
             href='https://maps.app.goo.gl/XxtpXvJEhDUFakuv8'
@@ -60,7 +60,7 @@ function App() {
 
         <div className='item'>
           <GlassesIcon />
-          <h5>Святкування</h5>
+          <h5 className='shantell-sans'>Святкування</h5>
           <h4>
             Ресторан <span className='pacifico'>LION</span> (м. Хоростків) час 13:00
           </h4>
